@@ -1,0 +1,11 @@
+# Độ trễ phím (giây). BẮT BUỘC điều chỉnh theo tình trạng thực tế khi chạy trên máy bạn.
+# Trong game, vùng nhận phím nằm lệch so với vùng dò hình ảnh của script; FPS và các yếu tố khác cũng sẽ ảnh hưởng các giá trị bên dưới.
+key_delay:
+  guzheng: 0.32
+  common: 0.28
+  drum: 0.49
+  clapper: 0.42
+  gong: 0.3
+
+tesseract_path:
+  Tesseract-OCR\tesseract.exe
