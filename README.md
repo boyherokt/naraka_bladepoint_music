@@ -1,4 +1,4 @@
-# naraka_bladepoint_music
+# HuwngNef — Vùng Đất Chill
 
 Naraka: Bladepoint — Tự động cày độ thành thạo nhạc cụ, có thể vượt qua bài kiểm tra
 
